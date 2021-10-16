@@ -3,4 +3,5 @@ student id:2021041064
 department:software
 grade:1
 class:open source
+quote of the day: be honest
 
